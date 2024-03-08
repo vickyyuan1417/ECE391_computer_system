@@ -1,0 +1,2 @@
+
+Welcome to Xiaowei's ECE 391 final project repository! This project encapsulates our journey in constructing a Linux-based computer system using the C programming language. Leveraging the power of Linux, we delve into low-level hardware interactions, system calls, and kernel-level programming to showcase a robust and efficient system. Explore the codebase to witness the culmination of our academic and technical expertise, where theory meets practice in building a functional computer system. Happy coding!
